@@ -1,4 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
 # 💫 About Me:
 🎯 I’m currently working on<br>Building AI-driven applications and full-stack web development projects.<br><br>🤝 I’m looking to collaborate on<br>Exciting projects involving AI/ML, web development, or blockchain technology.<br><br>💡 I’m looking for help with<br>Optimizing algorithms for large-scale data processing and enhancing app scalability.<br><br>🌱 I’m currently learning<br>Advanced concepts in cloud computing, Hyperledger Fabric, and AI fraud detection systems.<br><br>💬 Ask me about<br>How to integrate cloud technologies like AWS into applications or create intelligent chatbots.<br><br>⚡ Fun fact<br>I once built a circle-drawing app using just Python and OpenCV, starting with a simple mouse-click idea!
 
