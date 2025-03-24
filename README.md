@@ -1,7 +1,25 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 # 💫 About Me:
-🎯 I’m currently working on<br>Building AI-driven applications and full-stack web development projects.<br><br>🤝 I’m looking to collaborate on<br>Exciting projects involving AI/ML, web development, or blockchain technology.<br><br>💡 I’m looking for help with<br>Optimizing algorithms for large-scale data processing and enhancing app scalability.<br><br>🌱 I’m currently learning<br>Advanced concepts in cloud computing, Hyperledger Fabric, and AI fraud detection systems.<br><br>💬 Ask me about<br>How to integrate cloud technologies like AWS into applications or create intelligent chatbots.<br><br>⚡ Fun fact<br>I once built a circle-drawing app using just Python and OpenCV, starting with a simple mouse-click idea!
+<h2>👋 Hi, I'm Pavani!</h2>
+
+📌 <strong>I’m currently working on</strong><br>
+Building AI-driven applications, PhishCatcher (ML-based phishing detection), and full-stack web development projects.<br><br>
+
+🤝 <strong>I’m looking to collaborate on</strong><br>
+Exciting projects involving AI/ML, web development, or data analytics.<br><br>
+
+💡 <strong>I’m looking for help with</strong><br>
+Optimizing data pipelines, improving ML model performance, and scaling web applications efficiently.<br><br>
+
+🌱 <strong>I’m currently learning</strong><br>
+Data Structures & Algorithms (DSA) with Java, advanced data analytics, and modern web development frameworks.<br><br>
+
+💬 <strong>Ask me about</strong><br>
+How to integrate ML models into applications, optimize SQL queries for analytics, or deploy scalable apps with AWS.<br><br>
+
+⚡ <strong>Fun fact</strong><br>
+I once built a simple AI chatbot that learned responses dynamically—just for fun!<br><br>
 
 
 ## 🌐 Socials:
